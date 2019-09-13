@@ -5,6 +5,8 @@
 Write up algorithms to exhaustively describe in text and pseudocode, 
 steps to brush one’s teeth, eat an orange, and something you do everyday.
 
+{% next %}
+
 ## Step 1: Watch This.
 
 Let’s start off by watching David’s video (from Ted-ED) on Algorithms.
@@ -26,6 +28,8 @@ As the company began to grow and have many users, Dropbox needed many more file 
 
 And don’t worry if you don’t yet understand the processes that Thomas and Alex described in that video. You certainly don’t need to understand either of those things for this assignment, but rest assured that by the time you’ve completed the course, you’ll have a much better appreciation for how this might work!
 
+{% next %}
+
 ## Step 2: Read This.
 
 The concept of an algorithm is fundamental in computer science. Recall from earlier in this chapter that we defined a computer as a device that accepts input, and processes it in some way to produce a result automatically. The critical word in that sentence when we are talking about algorithms is the word "processes".
@@ -34,8 +38,9 @@ Say you’re playing your favorite video game of all time. If you’re a fan of 
 
 {% video https://youtu.be/zNBwkI0ytZo %}
 
-
 Assume you’re racing Sonic around Green Hill Zone and you see a couple of rings up in the air, over Sonic’s head. Because they protect you in the event you are attacked by an enemy, you want to pick them up. In order to grab them, you have to press one of the buttons on the controller. When you press that button, Sonic jumps into the air to a consistent height. When and if he touches the ring, it disappears from the screen so it cannot be claimed multiple times, and the number of rings in his possession—​indicated by a ring counter—​increases by one.
+
+{% next %}
 
 Every step of that process involved multiple algorithms. Described informally, those algorithms (greatly simplified) might read as something like this:
 
@@ -73,6 +78,8 @@ your rain boots and raincoat. Then go outside.
 
 you might see a computer scientist instead use what’s called pseudocode—short expressions in common language organized in a way that resembles what source code looks like—to write their algorithms. We’ll talk more about pseudocode soon, but getting in the habit of writing it before you dive into actual coding in Scratch, C, PHP, or JavaScript is a great idea, much like writing the first draft of an essay.
 
+{% next %}
+
 Here’s one possible way to translate that algorithm into pseudocode:
 
 ```
@@ -108,6 +115,8 @@ We call such a repetition a loop, because you’ll keep going around and around 
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and *break* out of the loop.
 
+{% next %}
+
 ## Step 3: Write This.
 
 Okay, now you’ve learned a lot about algorithms and pseudocode. Perhaps we should try writing a few—​three, to be precise. Write your pseudocode in the file ‘algorithms.txt’ on the right (or a google doc then copy and then pasting into this file). First, write up algorithms (both in **sentence form** and in **pseudocode**) for how to:
@@ -122,6 +131,8 @@ If you’re stuck, know that you aren’t just limited to purely text-based ways
 {% video https://youtu.be/k0xgjUhEG3U %}
 
 Just do your best to avoid any infinite loops (a loop that’s impossible to ever break out of) in your algorithm, lest you be stuck in one forever!
+
+{% next %}
 
 ## Step 4: Do This.
 
