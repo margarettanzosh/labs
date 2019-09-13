@@ -5,13 +5,19 @@
 Write up algorithms to exhaustively describe in text and pseudocode, 
 steps to brush one’s teeth, eat an orange, and something you do everyday.
 
-Step 1: Watch This.
+## Step 1: Watch This.
+
 Let’s start off by watching David’s video (from Ted-ED) on Algorithms.
 
+{% video https://youtu.be/6hfOvs8pY1k %}
 
 As we see from that video, algorithms are sets of instructions for completing a task step-by-step. Sometimes these algorithms can be quite simple. One way to express an algorithm for deciding how to dress based on the weather might be to say something like this.
 
-Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.
+```
+Look out the window. If it is raining outside, put on 
+your rain boots and raincoat. Then go outside.
+```
+
 Sometimes they can be a bit more complex. Dropbox, if unfamiliar, is a service that provides storage of files "in the cloud"—on physical machines that are not your own but rather are typically owned by a hosting company—and delivers those files to you via the Internet. It also can synchronize your files between all machines on which you’ve installed the Dropbox client and has a web interface for downloading your synchronized files, which is handier than e-mailing yourself a copy of the file you worked on at school so you can continue working on that same file at home.
 
 As the company began to grow and have many users, Dropbox needed many more file servers and a way to organize their millions of users and their billions of files across those servers. As computer scientists might say, they had to develop algorithms for dealing with issues of chunking and sharding:
