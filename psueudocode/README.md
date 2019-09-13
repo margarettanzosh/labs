@@ -40,15 +40,18 @@ Assume you’re racing Sonic around Green Hill Zone and you see a couple of ring
 Every step of that process involved multiple algorithms. Described informally, those algorithms (greatly simplified) might read as something like this:
 
 ```
-If the jump button is pressed and if Sonic is standing on the ground, begin moving him upward
-until he reaches the top of his arc. After he reaches the top of his arc, begin moving him downward
-by simulating gravity's pull until he is standing on the ground again.
+If the jump button is pressed and if Sonic is standing 
+on the ground, begin moving him upward until he reaches 
+the top of his arc. After he reaches the top of his arc, 
+begin moving him downward by simulating gravity's pull 
+until he is standing on the ground again.
 ```
 
 And for the rings:
 
 ```
-If Sonic is touching a ring, remove the ring from the screen and increase Sonic's ring counter by one.
+If Sonic is touching a ring, remove the ring from the 
+screen and increase Sonic's ring counter by one.
 ```
 
 Let’s focus just on the jumping algorithm for now, because the "input" to that algorithm is a lot clearer. The device that is executing this algorithm is the Sega Genesis console (or, more likely nowadays, an emulator for the same) running the Sonic the Hedgehog software. What is the data or input? That would be you, holding your controller, pressing down on the button that makes Sonic jump. (In fact, as you may recall, it’s actually an electrical pulse that occurred when you pressed that button that likely "jump-started" this algorithm.[2])
@@ -64,7 +67,8 @@ Sometimes it is easiest to express an algorithm using common language. That’s 
 Instead of this:
 
 ```
-Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.
+Look out the window. If it is raining outside, put on 
+your rain boots and raincoat. Then go outside.
 ```
 
 you might see a computer scientist instead use what’s called pseudocode—short expressions in common language organized in a way that resembles what source code looks like—to write their algorithms. We’ll talk more about pseudocode soon, but getting in the habit of writing it before you dive into actual coding in Scratch, C, PHP, or JavaScript is a great idea, much like writing the first draft of an essay.
