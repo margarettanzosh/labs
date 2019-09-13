@@ -26,7 +26,7 @@ As the company began to grow and have many users, Dropbox needed many more file 
 
 And don’t worry if you don’t yet understand the processes that Thomas and Alex described in that video. You certainly don’t need to understand either of those things for this assignment, but rest assured that by the time you’ve completed the course, you’ll have a much better appreciation for how this might work!
 
-##Step 2: Read This.
+## Step 2: Read This.
 
 The concept of an algorithm is fundamental in computer science. Recall from earlier in this chapter that we defined a computer as a device that accepts input, and processes it in some way to produce a result automatically. The critical word in that sentence when we are talking about algorithms is the word "processes".
 
@@ -103,5 +103,40 @@ We call such a repetition a loop, because you’ll keep going around and around 
 ```
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and *break* out of the loop.
+
+## Step 3: Write This.
+
+Okay, now you’ve learned a lot about algorithms and pseudocode. Perhaps we should try writing a few—​three, to be precise. Write your pseudocode in the file ‘algorithms.txt’ on the right (or a google doc then copy and then pasting into this file). First, write up algorithms (both in **sentence form** and in **pseudocode**) for how to:
+
+* brush one’s teeth
+* eat an orange
+
+Next, think of something that you do every day or nearly every day. Write an algorithm in sentence form and in pseudocode for how to do the thing you’re thinking of.
+
+If you’re stuck, know that you aren’t just limited to purely text-based ways of writing out algorithms when trying to come up with them. It may help to just get started with a simple flowchart, such as the one Sheldon Cooper used in this clip from TV’s *The Big Bang Theory*:
+
+{% video https://youtu.be/k0xgjUhEG3U %}
+
+Just do your best to avoid any infinite loops (a loop that’s impossible to ever break out of) in your algorithm, lest you be stuck in one forever!
+
+## Step 4: Do This.
+
+Now for a little bit of fun. Before you actually turn in your algorithms, you probably should have someone test them out. Here’s what happened in a recent iteration of CS50 when making a peanut butter and jelly sandwich using an algorithm supplied by students.
+
+{% video https://youtu.be/wEdvGqxafq8 %}
+
+As you can see, describing algorithms precisely is crucial in order to have the desired effect! Have a few friends or family members test out your algorithms, instructing them to make absolutely no assumptions beyond exactly what you’ve written. Is your algorithm described clearly enough that your set of instructions can be repeated exactly without any ambiguity as to what to do? Did your friend or family member find a way to break your algorithm or, worse, find themselves in an infinite loop?
+
+If so, help them escape, then take another crack at rewriting your algorithm’s instructions to see if you can’t make it a bit clearer.
+
+Go back to the first paragraph of this section and run through those steps again.
+
+See what we did there?
+
+This process may actually be more challenging than it first appears, and that’s okay. We promise though, once you start writing source code you’ll have access to a new (but limited!) toolkit of keywords and commands that will make precise algorithm-writing substantially easier!
+
+## How to Submit
+
+
 
 
