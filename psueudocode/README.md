@@ -139,5 +139,5 @@ This process may actually be more challenging than it first appears, and that’
 
 In the terminal on the lower right side of this lab, type in the following, next to the $ prompt. You'll be prompted to log in with your GitHub username and password. For security, you’ll see asterisks (*) instead of the actual characters in your password.
 
-submit50 cs50/problems/2019/ap/house
+submit50 cs50/problems/2019/ap/algorithms
 
