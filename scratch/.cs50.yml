@@ -1,4 +1,4 @@
 lab50:
   files:
     - !exclude "*"
-    - include "pseudocode.txt"
+    - !include pseudocode.txt
