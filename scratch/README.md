@@ -48,6 +48,17 @@ Feel free to peruse some of last year’s projects for inspiration, but your own
 
 {% next %}
 
+## Help
+
+Help
+For help with Scratch:
+
+* Watch [David’s brief tour](https://youtu.be/tveoFN0NHE0?list=PLhQjrBD2T383nc2LUdF5XWbyrsqiYy4nq).
+
+* Watch [Allison’s short](https://youtu.be/52JoFF4HMA4).
+
+* Watch [Zamyla’s walkthrough](https://youtu.be/697pD31GCZg).
+
 If, along the way, you find it too difficult to implement some feature, try not to fret; alter your design or work around the problem. If you set out to implement an idea that you find fun, you should not find it hard to satisfy this problem set’s requirements.
 
 Alright, off you go. Make us proud!.
