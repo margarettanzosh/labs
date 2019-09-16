@@ -18,6 +18,8 @@ Next try your hand at Pikachu’s Pastry Catch by (former student) Gabe Walker! 
 
 If curious, Gabe’s source code can be seen at [http://scratch.mit.edu/projects/26329354/](http://scratch.mit.edu/projects/26329354/). (You can also full-screen the game at that same URL, as full-screening the embedded game here might not work.)
 
+{% next %}
+
 Next, be sure you know what’s recyclable and compostable these days by trying out this remix of Oscartime by Jordan Hayashi!
 
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/71161586/?autostart=false" frameborder="0" allowfullscreen="true"></iframe>
@@ -27,6 +29,8 @@ Jordan’s source code can be found at [https://scratch.mit.edu/projects/7116158
 If you’ve no experience (or comfort) whatsoever with programming, rest assured that Gabe’s and Jordan’s projects are more complex than what we expect for this first problem set. (Click See inside in Scratch’s top-right corner to look at each project’s underlying "implementation details.") But they do reveal what you can do with Scratch.
 
 In fact, for a gentler introduction to Scratch (and programming more generally), you might want to review some of the examples that we looked at in Week 0, the "source code" for which can be found at [https://scratch.mit.edu/studios/3003963/](https://scratch.mit.edu/studios/3003963/). Once you can say to yourself, "Okay, I think I get this," you’re ready to proceed.
+
+{% next %}
 
 Now it’s time to choose your own adventure! Your mission is, quite simply, to have fun with Scratch and implement a project of your choice (be it an animation, a game, interactive art, or anything else), subject only to the following requirements.
 
