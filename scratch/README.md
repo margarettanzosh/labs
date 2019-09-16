@@ -20,6 +20,8 @@ If curious, Gabe’s source code can be seen at [http://scratch.mit.edu/projects
 
 {% next %}
 
+## Oscar Recycles!
+
 Next, be sure you know what’s recyclable and compostable these days by trying out this remix of Oscartime by Jordan Hayashi!
 
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/71161586/?autostart=false" frameborder="0" allowfullscreen="true"></iframe>
@@ -32,6 +34,8 @@ In fact, for a gentler introduction to Scratch (and programming more generally),
 
 {% next %}
 
+## Your Turn!
+
 Now it’s time to choose your own adventure! Your mission is, quite simply, to have fun with Scratch and implement a project of your choice (be it an animation, a game, interactive art, or anything else), subject only to the following requirements.
 
 * Your project must have at least two sprites, at least one of which must resemble something other than a cat.
@@ -42,6 +46,8 @@ Now it’s time to choose your own adventure! Your mission is, quite simply, to 
 
 Feel free to peruse some of last year’s projects for inspiration, but your own project should not be terribly similar to any of them. Try to think of an idea on your own, and then set out to implement it. But don’t try to implement the entirety of your project all at once: pluck off one piece at a time. Gabe, for instance, probably implemented just one pastry first, before he moved onto the game’s other sprites. In other words, take baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth.
 
+{% next %}
+
 If, along the way, you find it too difficult to implement some feature, try not to fret; alter your design or work around the problem. If you set out to implement an idea that you find fun, you should not find it hard to satisfy this problem set’s requirements.
 
 Alright, off you go. Make us proud!.
@@ -49,6 +55,8 @@ Alright, off you go. Make us proud!.
 Once finished with your project, click See project page in Scratch’s top-right corner. Ensure your project has a title (in Scratch’s top-left corner), some instructions (in Scratch’s top-right corner), and some notes and/or credits (in Scratch’s bottom-right corner). Then click Share in Scratch’s top-right corner so that others can see your project. Finally, take note of the URL in your browser’s address bar. That’s your project’s URL on MIT’s website, and you’ll need to know it later.
 
 Oh, and if you’d like to exhibit your project in CS50 AP’s studio for 2019-20, head to [https://scratch.mit.edu/studios/25082196](https://scratch.mit.edu/studios/25082196/), then click Add projects, and paste in your own project’s URL.
+
+{% next %}
 
 ## How to Submit
 
